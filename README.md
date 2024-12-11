@@ -1,5 +1,5 @@
 - 👋 Hi, I’m marvin
-- 👀 I’m interested in backend, games, music, punk, anarchy, tattoos and piercings
+- 👀 I’m interested in backend, games, tattoos and piercings
 - 🌱 I’m currently learning angular, typescript and nodejs
 - 💞️ I’m looking to collaborate on my business
 - 📫 How to reach me twitter: marvinthomaz, bsky: marvinthomaz, instagram: marvinthomaz
